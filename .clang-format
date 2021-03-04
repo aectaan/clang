@@ -22,14 +22,13 @@ BinPackParameters: 'false'
 BreakStringLiterals: 'true'
 ColumnLimit: '80'
 DisableFormat: 'false'
-IncludeBlocks: Regroup
 IndentPPDirectives: None
 IndentWidth: '4'
 KeepEmptyLinesAtTheStartOfBlocks: 'false'
 Language: Cpp
 MaxEmptyLinesToKeep: '1'
 PointerAlignment: Right
-SortIncludes: 'true'
+SortIncludes: 'false'
 SpaceAfterCStyleCast: 'false'
 SpaceAfterLogicalNot: 'false'
 SpaceBeforeAssignmentOperators: 'true'
